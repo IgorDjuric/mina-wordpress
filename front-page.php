@@ -1,0 +1,213 @@
+<?php get_header(); ?>
+<!-- ***** Hero Area Start ***** -->
+<section class="hero-area">
+    <div class="hero-slides owl-carousel">
+
+        <!-- Single Hero Slide -->
+        <div class="single-hero-slide bg-img slide-background-overlay"
+             style="background-image: url(img/bg-img/slide1.jpg);">
+            <div class="container h-100">
+                <div class="row h-100 align-items-end">
+                    <div class="col-12">
+                        <div class="hero-slides-content">
+                            <div class="line"></div>
+                            <h2>Sand Storm</h2>
+                            <a href="">View full collection</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Single Hero Slide -->
+        <div class="single-hero-slide bg-img slide-background-overlay"
+             style="background-image: url(img/bg-img/test2.jpg);">
+            <div class="container h-100">
+                <div class="row h-100 align-items-end">
+                    <div class="col-12">
+                        <div class="hero-slides-content">
+                            <div class="line"></div>
+                            <h2>Sand Storm</h2>
+                            <a href="">View full collection</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Single Hero Slide -->
+        <div class="single-hero-slide bg-img slide-background-overlay"
+             style="background-image: url(img/bg-img/test3.jpg);">
+            <div class="container h-100">
+                <div class="row h-100 align-items-end">
+                    <div class="col-12">
+                        <div class="hero-slides-content">
+                            <div class="line"></div>
+                            <h2>Sand Storm</h2>
+                            <a href="">View full collection</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<!-- ***** Hero Area End ***** -->
+
+<!-- ***** Portfolio Area Start ***** -->
+<div class="portfolio-area section-padding-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="portfolio-title">
+                    <h2>“In photography there is a reality so subtle that it becomes more <span>real</span> than
+                        reality.”</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-between">
+            <!-- Single Portfoio Area -->
+            <div class="col-12 col-md-5">
+                <div class="single-portfolio-item mt-100 portfolio-item-1 wow fadeIn">
+                    <div class="backend-content">
+                        <img class="dots" src="img/core-img/dots.png" alt="">
+                        <h2>Reality</h2>
+                    </div>
+                    <div class="portfolio-thumb">
+                        <img src="img/bg-img/p1.png" alt="">
+                    </div>
+                    <div class="portfolio-meta">
+                        <p class="portfolio-date">Feb 02, 2018</p>
+                        <h2>Italy in the sunset</h2>
+                    </div>
+                </div>
+            </div>
+            <!-- Single Portfoio Area -->
+            <div class="col-12 col-md-6">
+                <div class="single-portfolio-item mt-230 portfolio-item-2 wow fadeIn">
+                    <div class="backend-content">
+                        <img class="dots" src="img/core-img/dots.png" alt="">
+                    </div>
+                    <div class="portfolio-thumb">
+                        <img src="img/bg-img/p2.png" alt="">
+                    </div>
+                    <div class="portfolio-meta">
+                        <p class="portfolio-date">Feb 02, 2018</p>
+                        <h2>Mountain Landscape</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- Single Portfoio Area -->
+            <div class="col-12 col-md-10">
+                <div class="single-portfolio-item mt-100 portfolio-item-3 wow fadeIn">
+                    <div class="backend-content">
+                        <img class="dots" src="img/core-img/dots.png" alt="">
+                        <h2>Photography</h2>
+                    </div>
+                    <div class="portfolio-thumb">
+                        <img src="img/bg-img/p3.png" alt="">
+                    </div>
+                    <div class="portfolio-meta">
+                        <p class="portfolio-date">Feb 02, 2018</p>
+                        <h2>Foggy sunset over the lake</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-end">
+            <!-- Single Portfoio Area -->
+            <div class="col-12 col-md-6">
+                <div class="single-portfolio-item portfolio-item-4 wow fadeIn">
+                    <div class="backend-content">
+                        <img class="dots" src="img/core-img/dots.png" alt="">
+                    </div>
+                    <div class="portfolio-thumb">
+                        <img src="img/bg-img/p2.png" alt="">
+                    </div>
+                    <div class="portfolio-meta">
+                        <p class="portfolio-date">Feb 02, 2018</p>
+                        <h2>Clouds on mountain top</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- Single Portfoio Area -->
+            <div class="col-12 col-md-5">
+                <div class="single-portfolio-item portfolio-item-5 wow fadeIn">
+                    <div class="backend-content">
+                        <img class="dots" src="img/core-img/dots.png" alt="">
+                        <h2>Hope</h2>
+                    </div>
+                    <div class="portfolio-thumb">
+                        <img src="img/bg-img/p5.png" alt="">
+                    </div>
+                    <div class="portfolio-meta">
+                        <p class="portfolio-date">Feb 02, 2018</p>
+                        <h2>Over the canion</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <!-- Single Portfoio Area -->
+            <div class="col-12 col-md-4">
+                <div class="single-portfolio-item portfolio-item-6 wow fadeIn">
+                    <div class="portfolio-thumb">
+                        <img src="img/bg-img/p6.png" alt="">
+                    </div>
+                    <div class="portfolio-meta">
+                        <p class="portfolio-date">Feb 02, 2018</p>
+                        <h2>Mirror lake</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-end">
+            <!-- Single Portfoio Area -->
+            <div class="col-12 col-md-4">
+                <div class="single-portfolio-item portfolio-item-7 wow fadeIn">
+                    <div class="backend-content">
+                        <img class="dots" src="img/core-img/dots.png" alt="">
+                        <h2>Future</h2>
+                    </div>
+                    <div class="portfolio-thumb">
+                        <img src="img/bg-img/p7.png" alt="">
+                    </div>
+                    <div class="portfolio-meta">
+                        <p class="portfolio-date">Feb 02, 2018</p>
+                        <h2>Mirror lake</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ***** Portfolio Area End ***** -->
+
+<!-- ***** Call to Action Area Start ***** -->
+<div class="webid-call-to-action-area section-padding-0-100">
+    <div class="backEnd-content">
+        <h2>Dream</h2>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
+                    <h2>I am an experienced photographer</h2>
+                    <h5>Let’s talk</h5>
+                    <a href="#" class="btn webid-btn mt-100">contact me</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ***** Call to Action Area End ***** -->
+<?php get_footer(); ?>
